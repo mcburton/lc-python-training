@@ -4,7 +4,7 @@ This two-day workshop will teach the basics of the Python programming language w
 
 Dates:
 - **May 22nd**: Introduction to Jupyter, & Python
-- **May 23rd**: Introduction to Pandas and Web data
+- **May 23rd**: Introduction to Pandas and Web Data
 
 
 Instructors:
@@ -20,3 +20,33 @@ Instructors:
 * **Click here to launch Day One**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcburton/lc-python-training/master?urlpath=lab)
 
 
+
+## Day One - Introduction to Jupyter, & Python
+
+* Introduction to Jupyter
+* Python Programming
+    * Variables and Data Types
+    * Control Flow
+    * Data Containers
+    * Iteration
+    * Functions
+    * File Input and Output
+* Python Data Manipulation
+    * PEP 8
+    * String Methods
+    * List Comprehensions
+    * Traversing the filesystem 
+    * Working with CSV Files
+* Putting it Together - QuadraSTAR Parsing
+
+## Day Two - Introduction to Pandas and Web Data
+
+* Introduction to Pandas
+    * What and Why Pandas
+    * Introduction to Pandas Data Structures
+    * Loading & Saving Data
+    * Basic Data Manipulation
+* Fetching & Parsing Data from the Web
+    * APIs and JSON
+    * Getting Data from the Web
+* Putting it Together - Collections as Data
