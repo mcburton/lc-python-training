@@ -17,6 +17,6 @@ Instructors:
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 * We will be using the [Binder](https://mybinder.org/) service for hosting the course.
 
-* **Click here to launch Day One**: [![Binder](https://mybinder.org/badge.svg)](https://github.com/mcburton/lc-python-training)
+* **Click here to launch Day One**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcburton/lc-python-training/master?urlpath=lab)
 
 
